@@ -1,0 +1,20 @@
+# Virtuelle Umgebung
+.venv/
+venv/
+env/
+
+# Python-Zwischendateien
+__pycache__/
+*.pyc
+
+# PyCharm-Einstellungen
+.idea/
+
+# Geheimnisse und lokale Konfiguration
+.env
+config_local.py
+*.key
+
+# Betriebssystem-Dateien
+.DS_Store
+Thumbs.db
